@@ -53,5 +53,15 @@ The project demonstrates a future where VR driving becomes more natural, immersi
 
 ## 🖼️ Screenshots & Demo
 
-> Replace below image links with real ones once available
+
+🎬 **Demo Video:** _Coming soon_
+
+---
+
+## 🚀 Getting Started
+
+### Requirements
+- Unity (Recommended version: `20XX.X.X`)
+- VR headset with hand-tracking support
+- Sufficient play area for VR interaction
 
